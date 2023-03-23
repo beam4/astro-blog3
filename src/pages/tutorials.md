@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/Baselayout.astro
 title: Hello, World1
 ---
 

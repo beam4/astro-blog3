@@ -1,21 +1,13 @@
 ---
-title: "Tutorials"
+title: Hello, World
 ---
 
-# tutorials
+# Hi there!
 
-Astro line
+This Markdown file creates a page at `your-domain.com/page-1/`
 
-<!--
-<!DOCTYPE html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-	</head>
-	<body>
-		<Header title={SITE_TITLE} />
-		<main>
-			
-		</main>
-	</body>
-</html> -->
+It probably isn't styled much, but Markdown does support:
+- **bold** and _italics._
+- lists
+- [links](https://astro.build)
+- and more!

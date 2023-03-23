@@ -1,13 +1,15 @@
 ---
-title: Hello, World1
+layout: ../layouts/Baselayout.astro
+title: My Blog Post
 ---
 
-# Hi there!
+This is my in-progress blog post.
 
-This Markdown file creates a page at `your-domain.com/page-1/`
+No page will be built for this post.
 
-It probably isn't styled much, but Markdown does support:
-- **bold** and _italics._
-- lists
-- [links](https://astro.build)
-- and more!
+To build and publish this post:
+
+- update the frontmatter to `draft: false` or
+- remove the `draft` property entirely.
+
+But, this page _will_ be returned by any matching `Astro.glob()` request.

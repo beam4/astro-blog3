@@ -1,5 +1,6 @@
 ---
-title: Hello, World
+layout: ../layouts/Baselayout.astro
+title: Hello, World1
 ---
 
 # Hi there!

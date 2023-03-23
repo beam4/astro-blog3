@@ -1,6 +1,6 @@
 ---
 layout: ../layouts/Baselayout.astro
-title: My Blog Post
+title: My Blog Post1
 ---
 
 This is my in-progress blog post.
